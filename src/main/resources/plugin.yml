@@ -1,0 +1,8 @@
+main: me.whitehat.EfficientSet.Main
+version: 1.0
+author: qAlex
+name: EfficientSet
+commands:
+  set:
+    description: Set command
+    usage: /set
