@@ -1,6 +1,6 @@
 main: me.whitehat.EfficientSet.Main
 version: 1.0
-author: qAlex
+author: WhitehatD
 name: EfficientSet
 commands:
   set:
